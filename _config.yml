@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Lachlan testing Jekyll for notes
+short_title: Notes testing
+description: Notes testing site for Forestry.io
 baseurl: /forestry/
 permalink: "/:path/"
 defaults:
